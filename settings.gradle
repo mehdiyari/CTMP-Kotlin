@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CTMP-Kotlin"
 include ':app'
+include ':ksp-processor'
+include ':annotations'
+include ':kapt-processor'
